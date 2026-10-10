@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación detallado para diagnosticar y erradicar completamente el ruido de interferencia de radio al acelerar a fondo y subir de revoluciones en Apex GT. El plan conserva al 100% el timbre, tono agresivo y rugido del motor actual, mientras reestructura la estructura de ganancias (gain staging), suaviza la curva de saturación no lineal, elimina el hard-clipping en el bus maestro y reajusta la constante de compresión para evitar intermodulación en alta frecuencia.",
+  "updatedAt":  "2026-10-10T14:54:31.227508284Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
